@@ -7,7 +7,7 @@ body {background-color: rgb(253, 165, 214);
 
 .part01 {border-color: rgb(224, 224, 224);
     border-style: dashed;
-    border-width:5px;
+    border: width 10px;px;
     margin-left: 30%;
     margin-right: 30%;}
 
