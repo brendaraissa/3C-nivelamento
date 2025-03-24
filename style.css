@@ -13,7 +13,7 @@ body {background-color: rgb(253, 165, 214);
 text-align: center;}
 
     .part02{ color:rgb(238, 238, 238);
-        font-size: 250px;
+        font-size: 200px
        text-align: center;}
 
        .part3{color:rgb(238, 238, 238);
@@ -22,7 +22,7 @@ text-align: center;}
        
    .part3{border-color: rgb(224, 224, 224);
     border-style: dashed;
-    margin-left: 50%
+    margin-left: 100%
     margin-right: 100%;
 text-align: center;}
 #ima3{
