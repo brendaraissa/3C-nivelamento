@@ -22,11 +22,9 @@ text-align: center;}
        
    .part3{border-color: rgb(224, 224, 224);
     border-style: dashed;
-    margin-left: 50%
-    margin-right: 50%
-text-align: center;}
-#ima3{
-    width: 100px;
+    margin-left: 50%;
+    margin-right: 50%;
+    text-align: center;
 }
 #ima4{
   width: 100px;
