@@ -22,16 +22,16 @@ text-align: center;}
        
    .part3{border-color: rgb(224, 224, 224);
     border-style: dashed;
-    margin-left: 100%
-    margin-right: 100%;
+    margin-left: 50%
+    margin-right: 50%
 text-align: center;}
 #ima3{
-    width: 50px;
+    width: 100px;
 }
 #ima4{
-  width: 50px;
+  width: 100px;
 
 }
 #ima5{
-    width: 50px;
+    width: 100%;
 }
