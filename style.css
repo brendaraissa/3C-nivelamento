@@ -12,24 +12,26 @@ body {background-color: rgb(253, 165, 214);
     margin-right: 30%;
 text-align: center;}
 
-    .part02{ color:rgb(238, 238, 238);
-        font-size: 150px
+.part02{ color:rgb(238, 238, 238);
+        font-size: 150px;
        text-align: center;}
 
-       .part3{color:rgb(238, 238, 238);
+.part3{color:rgb(238, 238, 238);
         font-size: 150%;
        text-align: center;}
        
-   .part3{border-color: rgb(224, 224, 224);
+.part3{border-color: rgb(224, 224, 224);
     border-style: dashed;
     margin-left: 50%;
     margin-right: 50%;
-    text-align: center;
+text-align: center;}
+#ima3{
+    width: 70%;
 }
 #ima4{
-  width: 100px;
+  width: 70;
 
 }
 #ima5{
-    width: 100%;
+    width: 70%;
 }
