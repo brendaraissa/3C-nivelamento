@@ -3,33 +3,33 @@ body {background-color: rgb(253, 165, 214);
 
 .part01 { color:rgb(238, 238, 238);
      font-size: 150%;
-    text-align: center;}
-
-.part01 {border-color: rgb(224, 224, 224);
+    text-align: center;
+    border-color: rgb(224, 224, 224);
     border-style: dashed;
     border-width: 5px;
     margin-left: 30%;
     margin-right: 30%;
-text-align: center;}
+text-align: center;
+}
 
 .part02{ color:rgb(238, 238, 238);
-        font-size: 150px;
+        font-size: 50px;
        text-align: center;}
 
 .part3{color:rgb(238, 238, 238);
         font-size: 150%;
-       text-align: center;}
+       text-align: center;
+       border-color: rgb(224, 224, 224);
+       border-style: dashed;
+       margin-left: 70%;
+       margin-right: 70%;
+   text-align: center; }
        
-.part3{border-color: rgb(224, 224, 224);
-    border-style: dashed;
-    margin-left: 70%;
-    margin-right: 70%;
-text-align: center;}
 #ima3{
     width: 70%;
 }
 #ima4{
-  width: 70;
+  width: 70%;
 
 }
 #ima5{
