@@ -13,7 +13,7 @@ body {background-color: rgb(253, 165, 214);
 text-align: center;}
 
     .part02{ color:rgb(238, 238, 238);
-        font-size: 250;
+        font-size: 250px;
        text-align: center;}
 
        .part3{color:rgb(238, 238, 238);
@@ -25,3 +25,8 @@ text-align: center;}
     margin-left: 100%;
     margin-right: 100%;
 text-align: center;}
+
+img{
+   width: 300px;
+   height: auto;
+}
