@@ -25,8 +25,13 @@ text-align: center;}
     margin-left: 100%;
     margin-right: 100%;
 text-align: center;}
+#ima3{
+    width: 50px;
+}
+#ima4{
+  width: 50px;
 
-img{
-   width: 300px;
-   height: auto;
+}
+#ima5{
+    width: 50px;
 }
